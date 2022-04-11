@@ -111,7 +111,7 @@ export const PesquisarCep = styled.a`
   font-size: 24px;
   color: #9fa2b4;
   top: 33px;
-  right: 110px;
+  left: 600px;
   position: absolute;
 `;
 
